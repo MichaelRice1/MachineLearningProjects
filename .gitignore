@@ -1,6 +1,5 @@
 #project specific additionals
-nba_project/data_scraping/data/scores/*
-nba_project/data_scraping/data/standings/*
+nba_project/data/data_scraping/data/
 
 
 # Byte-compiled / optimized / DLL files
