@@ -6,11 +6,15 @@ This project involves scraping NBA game and player data from every season starti
 The main components of this project include:
 
 Data Scraping: Collecting NBA game and player data from various sources, covering all seasons since 1999-00.
+
 Data Preprocessing: Cleaning and preparing the data for analysis and model training.
+
 Model Development:
 Predicting game outcomes (win/loss) based on game data.
 Predicting individual player statlines (points, rebounds, assists) based on historical performance and game context.
-Model Evaluation: Assessing the models' performance and tuning them for better accuracy.
+
+Model Evaluation: 
+Assessing the models' performance and tuning them for better accuracy.
 Exploration & Insights: Gaining a deeper understanding of NBA statistics and trends, as well as improving personal expertise in machine learning.
 
 
@@ -26,15 +30,22 @@ Experimentation & Learning: Explore different machine learning algorithms, hyper
 
 # Technologies Used
 Python: Core programming language used for data collection, cleaning, and modeling.
+
 BeautifulSoup: Web scraping tools to gather game and player data from websites.
+
 Pandas & NumPy: Data manipulation libraries for preprocessing and feature engineering.
+
 Scikit-learn & XGBoost: Machine learning libraries for building and evaluating predictive models.
+
 PyTorch: For experimenting with deep learning models.
+
 Matplotlib: Visualization tools to analyze trends and present findings.
+
 Git: Version control for project collaboration and tracking progress.
 
 
 # Project Structure
 
 data: all the necessary components for scraping and processing the data are in this folder
+
 ml: all code for anything ML related, for use after data processing
