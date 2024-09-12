@@ -1,6 +1,7 @@
 #project specific additionals
-nba_project/data/data_scraping/data/standings/
-nba_project/data/data_scraping/data/scores/
+nba_project/data/data/standings/
+nba_project/data/data/scores/
+nba_project/data/data/players_final
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
